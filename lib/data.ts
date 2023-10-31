@@ -56,6 +56,14 @@ export const experiencesData = [
     date: "2020",
   },
   {
+    title: "Full-stack Developer Lauritz.com",
+    location: "Remote, DK",
+    description:
+      "I worked on translating Figma or Adobe prototypes to landing pages or working components and implementation of new features- Using HTML, JS, React & Typescript, Redux and Hooks to manage application state.",
+    icon: React.createElement(FaReact),
+    date: "2021",
+  },
+  {
     title: "Graduated bootcamp",
     location: "Casablanca, MA",
     description:
