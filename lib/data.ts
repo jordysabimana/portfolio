@@ -39,13 +39,22 @@ export const links = [
 ] as const;
 
 export const experiencesData = [
+ 
   {
-    title: "IOS Developer IFS",
+    title: "Full-Stack Developer",
     location: "Copenhagen, DK",
     description:
-      "As a junior developer, I worked on a flexible Electronic Flight Bag system. I worked on different customization and adjustments for our customers. App maintenance was done using git.",
-    icon: React.createElement(IoIosAppstore),
-    date: "2019",
+      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma, MongoDB and Ruby on rails. I'm open to full-time opportunities.",
+      icon: React.createElement(FaReact),
+      date: "2023 - present",
+  },
+  {
+    title: "Full-stack Developer",
+    location: "Casablanca, MA",
+    description:
+      "After I graduated. I immediately started working a freelance for Bookanyboat. Here I worked on the MVC design pattern and integrated the DB. I implementated other services such authenctication using ruby on rails. Mantained code and wrote automted tests. ",
+      icon: React.createElement(DiRuby),
+      date: "2023",
   },
   {
     title: "Javascript Developer Element",
@@ -56,36 +65,12 @@ export const experiencesData = [
     date: "2020",
   },
   {
-    title: "Full-stack Developer Lauritz.com",
-    location: "Remote, DK",
-    description:
-      "I worked on translating Figma or Adobe prototypes to landing pages or working components and implementation of new features- Using HTML, JS, React & Typescript, Redux and Hooks to manage application state.",
-    icon: React.createElement(FaReact),
-    date: "2021",
-  },
-  {
-    title: "Graduated bootcamp",
-    location: "Casablanca, MA",
-    description:
-      "I graduated after 3 months of studying. I immediately started working a freelance front-end developer.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2023",
-  },
-  {
-    title: "Full-stack Developer",
-    location: "Casablanca, MA",
-    description:
-      "After I graduated. I immediately started working a freelance for Bookanyboat. Here I worked the MVC datasctructure and integrated the DB. I implementated other services such authenctication using ruby on rails. Mantained code and wrote automted tests. ",
-      icon: React.createElement(DiRuby),
-      date: "2023",
-  },
-  {
-    title: "Full-Stack Developer",
+    title: "IOS Developer IFS",
     location: "Copenhagen, DK",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma, MongoDB and Ruby on rails. I'm open to full-time opportunities.",
-      icon: React.createElement(FaReact),
-      date: "2023 - present",
+      "As a junior developer, I worked on a flexible Electronic Flight Bag system. I worked on different customization and adjustments for our customers. App maintenance was done using git.",
+    icon: React.createElement(IoIosAppstore),
+    date: "2019",
   },
 ] as const;
 
