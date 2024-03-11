@@ -92,7 +92,7 @@ export const projectsData = [
   {
     title: "MovieLand",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+      "A public web app for movie fans. It shows movies from imbdb database, posters, titles and release.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
     imageUrl: movieland,
   },
