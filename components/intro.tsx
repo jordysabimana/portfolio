@@ -31,8 +31,8 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://cdn.pixabay.com/photo/2024/08/19/21/49/21-49-51-120_1280.jpg"
-              alt="JS"
+              src="https://cdn.pixabay.com/photo/2024/08/19/22/04/22-04-08-261_1280.jpg"
+              alt="Don"
               width="192"
               height="192"
               quality="95"
