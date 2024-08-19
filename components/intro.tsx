@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://cdn.pixabay.com/photo/2024/08/19/22/04/22-04-08-261_1280.jpg"
+              src=""
               alt="Don"
               width="192"
               height="192"
@@ -52,7 +52,7 @@ export default function Intro() {
               duration: 0.7,
             }}
           >
-            👋
+            
           </motion.span>
         </div>
       </div>
