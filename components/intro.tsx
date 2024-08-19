@@ -31,8 +31,8 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://images.unsplash.om/photo-1559138741-441acdebf148?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80"
-              alt="Ricardo portrait"
+              src="https://cdn.pixabay.com/photo/2024/08/19/21/49/21-49-51-120_1280.jpg"
+              alt="JS"
               width="192"
               height="192"
               quality="95"
